@@ -1,0 +1,6 @@
+dist/
+build/
+*.wav
+*.waw
+*.pt
+venv311/
