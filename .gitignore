@@ -4,3 +4,4 @@ build/
 *.waw
 *.pt
 venv311/
+venv3.11/
