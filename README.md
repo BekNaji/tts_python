@@ -9,6 +9,10 @@ A lightweight Flask API for text-to-speech conversion using **Silero TTS** model
 * **Text Processing:** Automatic number-to-word normalization and long text chunking.
 * **Customization:** Adjustable speech `speed` and `speaker` selection.
 
+## Requirements
+* **Python Version:** `3.11.x`
+* **OS:** Windows, macOS, or Linux
+
 ## Installation (using venv)
 
 1. **Clone and Enter:**
