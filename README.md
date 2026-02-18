@@ -54,7 +54,7 @@ python run.py
   "text": "Hello world",
   "lang": "en",
   "speaker": "en_0",
-  "speed": "0.85"
+  "file": "./audio.waw"
 }
 
 ```
