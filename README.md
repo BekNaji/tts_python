@@ -54,7 +54,7 @@ python run.py
   "text": "Hello world",
   "lang": "en",
   "speaker": "en_0",
-  "file": "./audio.waw"
+  "file": "./output.waw"
 }
 
 ```
